@@ -1,0 +1,40 @@
+{
+  "total_count": 5,
+  "data": [
+    {
+      "title": "파이썬 프로그래밍 입문",
+      "author": "김파이 저",
+      "price": "25,000원",
+      "publisher": "코딩출판사",
+      "year": "2025"
+    },
+    {
+      "title": "AI와 함께하는 코딩",
+      "author": "이에이 저",
+      "price": "32,000원",
+      "publisher": "미래출판",
+      "year": "2025"
+    },
+    {
+      "title": "바이브 코딩 완전 정복",
+      "author": "박바이브 저",
+      "price": "28,000원",
+      "publisher": "코딩출판사",
+      "year": "2024"
+    },
+    {
+      "title": "웹 개발의 정석",
+      "author": "최웹 저",
+      "price": "35,000원",
+      "publisher": "테크북스",
+      "year": "2024"
+    },
+    {
+      "title": "데이터 과학 첫걸음",
+      "author": "정데이터 저",
+      "price": "30,000원",
+      "publisher": "미래출판",
+      "year": "2025"
+    }
+  ]
+}
